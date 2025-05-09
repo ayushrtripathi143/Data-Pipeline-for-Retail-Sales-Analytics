@@ -1,0 +1,7 @@
+{
+	"product_id": "string",
+	"product_name": "string",
+	"category": "string",
+	"price": "float64",
+	"quantity": "int64"
+}

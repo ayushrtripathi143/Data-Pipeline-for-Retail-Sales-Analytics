@@ -1,0 +1,7 @@
+{
+    "order_item_id": "string" ,
+    "order_id": "string" ,
+    "product_id": "string" ,
+    "quantity": "int64" ,
+    "price":  "float64" 
+  }

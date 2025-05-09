@@ -1,0 +1,1402 @@
+[
+  {
+    "product_id": "f4e33969-e10a-4e6f-b464-8834364fb599",
+    "product_name": "Premium Chair",
+    "category": "Electronics",
+    "price": 158.16,
+    "quantity": 158
+  },
+  {
+    "product_id": "1bcf570f-2282-4fe2-860f-683da83b033d",
+    "product_name": "Elegant Smartphone",
+    "category": "Shoes",
+    "price": 26.91,
+    "quantity": 42
+  },
+  {
+    "product_id": "adb9380a-499e-46fe-8f4d-da486e859b9e",
+    "product_name": "Premium Smartphone",
+    "category": "Shoes",
+    "price": 300.62,
+    "quantity": 157
+  },
+  {
+    "product_id": "aaf5e286-b553-4733-ac4f-70826bd35646",
+    "product_name": "Portable Speaker",
+    "category": "Books",
+    "price": 283.21,
+    "quantity": 211
+  },
+  {
+    "product_id": "876118fb-438d-49f7-9d92-23a1743d3ae0",
+    "product_name": "Smart Headphones",
+    "category": "Fitness",
+    "price": 105.22,
+    "quantity": 14
+  },
+  {
+    "product_id": "9e023095-f0d4-4f52-adee-68410f5ac816",
+    "product_name": "Compact Sunglasses",
+    "category": "Beauty",
+    "price": 122.84,
+    "quantity": 310
+  },
+  {
+    "product_id": "3d43a96d-1251-4754-a1d4-cb0b8585a5be",
+    "product_name": "Smart Sunglasses",
+    "category": "Shoes",
+    "price": 131.96,
+    "quantity": 18
+  },
+  {
+    "product_id": "059bb541-ab3f-4058-9f8a-c9181188a1fa",
+    "product_name": "Heavy-duty T-Shirt",
+    "category": "Beauty",
+    "price": 70.68,
+    "quantity": 432
+  },
+  {
+    "product_id": "1d61dfd7-37c0-4975-a624-64c3ffd7d4cd",
+    "product_name": "Eco Sneakers",
+    "category": "Shoes",
+    "price": 480.78,
+    "quantity": 317
+  },
+  {
+    "product_id": "f6275d7e-8e13-4b00-bbfd-b4c8b2cc9fea",
+    "product_name": "Multi-use Watch",
+    "category": "Electronics",
+    "price": 338.26,
+    "quantity": 474
+  },
+  {
+    "product_id": "2763d9fe-6409-4c03-91d8-16a70df3f68a",
+    "product_name": "Smart Chair",
+    "category": "Clothing",
+    "price": 131.34,
+    "quantity": 365
+  },
+  {
+    "product_id": "4acf0e59-a2aa-4715-adb1-4f9c235bbe6e",
+    "product_name": "Premium Chair",
+    "category": "Books",
+    "price": 441.3,
+    "quantity": 226
+  },
+  {
+    "product_id": "8f98f760-b358-4f71-a549-84d90ed5d781",
+    "product_name": "Eco Monitor",
+    "category": "Beauty",
+    "price": 167.81,
+    "quantity": 496
+  },
+  {
+    "product_id": "58f13f97-6a84-4701-b3c6-d44ac6664572",
+    "product_name": "Elegant Chair",
+    "category": "Beauty",
+    "price": 256.6,
+    "quantity": 224
+  },
+  {
+    "product_id": "cc4ab7da-afb7-4398-a637-e725b827f8cb",
+    "product_name": "Heavy-duty Sunglasses",
+    "category": "Office",
+    "price": 497.38,
+    "quantity": 44
+  },
+  {
+    "product_id": "9239c6b0-b12a-4335-96c6-97ff348eb47e",
+    "product_name": "Elegant Book",
+    "category": "Electronics",
+    "price": 61.52,
+    "quantity": 267
+  },
+  {
+    "product_id": "7bb7b23e-69f2-4a85-95d6-cac6454c9f98",
+    "product_name": "Heavy-duty Lamp",
+    "category": "Beauty",
+    "price": 41.63,
+    "quantity": 456
+  },
+  {
+    "product_id": "b6432f86-3905-471e-98c2-467ddba0ce8c",
+    "product_name": "Classic T-Shirt",
+    "category": "Electronics",
+    "price": 163.48,
+    "quantity": 421
+  },
+  {
+    "product_id": "37d910e2-213c-4eb3-a0bf-39390ce17b63",
+    "product_name": "Eco Monitor",
+    "category": "Home Decor",
+    "price": 41.62,
+    "quantity": 386
+  },
+  {
+    "product_id": "64411c87-f7f7-4e8b-9171-0d4f26ccf249",
+    "product_name": "Wireless Sunglasses",
+    "category": "Music",
+    "price": 142.44,
+    "quantity": 277
+  },
+  {
+    "product_id": "32c0f171-d284-4d1c-9646-e320c2435f38",
+    "product_name": "Wireless Book",
+    "category": "Office",
+    "price": 402.6,
+    "quantity": 180
+  },
+  {
+    "product_id": "72dbfd10-97c4-40ed-b467-7ac280578c93",
+    "product_name": "Compact Speaker",
+    "category": "Beauty",
+    "price": 420.82,
+    "quantity": 170
+  },
+  {
+    "product_id": "07b3e4d1-4ed5-4482-a883-279b9063233d",
+    "product_name": "Portable Headphones",
+    "category": "Automotive",
+    "price": 46.62,
+    "quantity": 29
+  },
+  {
+    "product_id": "97586e93-1b29-4428-95f8-5e8b6b4ba6ff",
+    "product_name": "Smart Desk",
+    "category": "Home Decor",
+    "price": 384.52,
+    "quantity": 29
+  },
+  {
+    "product_id": "35dc85be-10c9-4ae6-b435-d36b4db15750",
+    "product_name": "Premium Vacuum Cleaner",
+    "category": "Beauty",
+    "price": 348.14,
+    "quantity": 328
+  },
+  {
+    "product_id": "57c75c69-e64b-4029-a135-b2713962f03a",
+    "product_name": "Premium Book",
+    "category": "Toys",
+    "price": 242.29,
+    "quantity": 408
+  },
+  {
+    "product_id": "f7778c1c-a521-4901-8a30-58b7635e357b",
+    "product_name": "Wireless Sneakers",
+    "category": "Home Decor",
+    "price": 303.34,
+    "quantity": 92
+  },
+  {
+    "product_id": "e65fcdda-1b96-4c63-bf96-f459f4c5a345",
+    "product_name": "Portable Watch",
+    "category": "Office",
+    "price": 389.5,
+    "quantity": 229
+  },
+  {
+    "product_id": "dbf1094a-5029-4246-84b3-6f26f03cb1ea",
+    "product_name": "Compact T-Shirt",
+    "category": "Fitness",
+    "price": 107.98,
+    "quantity": 484
+  },
+  {
+    "product_id": "a63b16e2-afcc-4ece-b66f-bbf649cea6d1",
+    "product_name": "Compact Sneakers",
+    "category": "Fitness",
+    "price": 299.87,
+    "quantity": 232
+  },
+  {
+    "product_id": "62ae7667-2d44-4664-9413-6000f6594caf",
+    "product_name": "Elegant Smartphone",
+    "category": "Music",
+    "price": 277.25,
+    "quantity": 484
+  },
+  {
+    "product_id": "787f448d-fba4-41b6-b36d-7702695c1345",
+    "product_name": "Compact Vacuum Cleaner",
+    "category": "Automotive",
+    "price": 280.61,
+    "quantity": 439
+  },
+  {
+    "product_id": "22f6f7e8-2236-46fc-ba98-1269fd8354b4",
+    "product_name": "Premium Headphones",
+    "category": "Clothing",
+    "price": 289.29,
+    "quantity": 130
+  },
+  {
+    "product_id": "3d589947-06e6-4f05-8f1f-6295d6aa4064",
+    "product_name": "Premium Sneakers",
+    "category": "Fitness",
+    "price": 29.52,
+    "quantity": 99
+  },
+  {
+    "product_id": "2f8f9916-59e5-4ccc-bcd5-96c52d0fa823",
+    "product_name": "Compact Speaker",
+    "category": "Books",
+    "price": 156.21,
+    "quantity": 35
+  },
+  {
+    "product_id": "c6f1a5e3-8603-44cb-ab8c-78a4b2a35db0",
+    "product_name": "Compact Sneakers",
+    "category": "Shoes",
+    "price": 265.42,
+    "quantity": 230
+  },
+  {
+    "product_id": "f6de988e-c566-49d1-b3d9-f7aa18f30961",
+    "product_name": "Wireless Monitor",
+    "category": "Electronics",
+    "price": 421.63,
+    "quantity": 100
+  },
+  {
+    "product_id": "da6ded67-8cdf-48f9-9575-59fe973fa8f4",
+    "product_name": "Heavy-duty Vacuum Cleaner",
+    "category": "Grocery",
+    "price": 350.89,
+    "quantity": 271
+  },
+  {
+    "product_id": "5b251d25-b04e-4219-9970-ce30ee7fef37",
+    "product_name": "Elegant Blender",
+    "category": "Home Decor",
+    "price": 93.73,
+    "quantity": 499
+  },
+  {
+    "product_id": "d6daca9d-f605-449c-96d6-17b174697953",
+    "product_name": "Premium Book",
+    "category": "Office",
+    "price": 427.61,
+    "quantity": 146
+  },
+  {
+    "product_id": "cdbc383f-0602-45c8-9820-5e5aeeb3142c",
+    "product_name": "Classic Sneakers",
+    "category": "Home Decor",
+    "price": 189.52,
+    "quantity": 261
+  },
+  {
+    "product_id": "03a33b98-18ee-490e-9bce-2a3024b15439",
+    "product_name": "Smart Vacuum Cleaner",
+    "category": "Books",
+    "price": 459.16,
+    "quantity": 58
+  },
+  {
+    "product_id": "cf195a91-a862-4e34-b54b-a25f0dbe968d",
+    "product_name": "Portable Vacuum Cleaner",
+    "category": "Office",
+    "price": 442.39,
+    "quantity": 430
+  },
+  {
+    "product_id": "2c47c486-f209-4606-86d5-648b76585ab5",
+    "product_name": "Portable Lamp",
+    "category": "Home Decor",
+    "price": 47.09,
+    "quantity": 297
+  },
+  {
+    "product_id": "d52b0ef2-209e-4f35-805a-f4b80c9c8f4f",
+    "product_name": "Heavy-duty Headphones",
+    "category": "Grocery",
+    "price": 378.03,
+    "quantity": 136
+  },
+  {
+    "product_id": "e7da2d61-63e1-4fad-8d92-00fac1c72a48",
+    "product_name": "Multi-use Chair",
+    "category": "Shoes",
+    "price": 238.27,
+    "quantity": 294
+  },
+  {
+    "product_id": "bde675aa-3f9f-4336-903e-2960368504a1",
+    "product_name": "Compact Backpack",
+    "category": "Grocery",
+    "price": 296.74,
+    "quantity": 313
+  },
+  {
+    "product_id": "fb123971-1bd8-41d2-ac2d-a3912a316dc1",
+    "product_name": "Elegant Lamp",
+    "category": "Music",
+    "price": 127.76,
+    "quantity": 287
+  },
+  {
+    "product_id": "15d6bc91-4e7d-4b32-a760-66c1b653985b",
+    "product_name": "Compact Backpack",
+    "category": "Beauty",
+    "price": 491.37,
+    "quantity": 81
+  },
+  {
+    "product_id": "0f8ae942-9a38-4238-a1e0-42bc93b1fba8",
+    "product_name": "Heavy-duty Book",
+    "category": "Books",
+    "price": 456.69,
+    "quantity": 285
+  },
+  {
+    "product_id": "f80f1e5d-6f13-486b-b33a-c5540808e556",
+    "product_name": "Elegant Backpack",
+    "category": "Home Decor",
+    "price": 221.65,
+    "quantity": 495
+  },
+  {
+    "product_id": "b653eff4-8d78-422a-8d32-85223e0fb158",
+    "product_name": "Heavy-duty Sunglasses",
+    "category": "Office",
+    "price": 347.32,
+    "quantity": 389
+  },
+  {
+    "product_id": "897f81ed-ed91-4d6f-9476-c9c15b0850f5",
+    "product_name": "Smart Speaker",
+    "category": "Electronics",
+    "price": 443.45,
+    "quantity": 237
+  },
+  {
+    "product_id": "ca37ef34-ceab-49bc-9de2-ed5580f0eb2b",
+    "product_name": "Eco Chair",
+    "category": "Fitness",
+    "price": 430.98,
+    "quantity": 112
+  },
+  {
+    "product_id": "e3a56c87-1596-4cc8-ace6-990fa22b3d48",
+    "product_name": "Wireless Desk",
+    "category": "Clothing",
+    "price": 208.29,
+    "quantity": 454
+  },
+  {
+    "product_id": "c6fefbf6-7b3b-4a35-8f51-e600a9678af0",
+    "product_name": "Multi-use Desk",
+    "category": "Toys",
+    "price": 142.85,
+    "quantity": 339
+  },
+  {
+    "product_id": "95625990-ba78-49c4-a724-01b44d0a8d35",
+    "product_name": "Compact Speaker",
+    "category": "Clothing",
+    "price": 59.49,
+    "quantity": 262
+  },
+  {
+    "product_id": "5ee4b490-9a00-4e0d-85c7-ce89f441da48",
+    "product_name": "Wireless Sunglasses",
+    "category": "Books",
+    "price": 308.2,
+    "quantity": 309
+  },
+  {
+    "product_id": "973f4df2-b806-4e49-a888-fd5dda35dabc",
+    "product_name": "Smart Book",
+    "category": "Books",
+    "price": 468.21,
+    "quantity": 52
+  },
+  {
+    "product_id": "6a48992d-28cb-43c0-8af5-1f9c627149bf",
+    "product_name": "Eco Sneakers",
+    "category": "Fitness",
+    "price": 459.66,
+    "quantity": 129
+  },
+  {
+    "product_id": "ccf81f26-eb0d-473e-9c05-4a83311a4ed1",
+    "product_name": "Wireless Lamp",
+    "category": "Beauty",
+    "price": 55.25,
+    "quantity": 139
+  },
+  {
+    "product_id": "7e9bada1-edc3-40f8-98d0-200409f42557",
+    "product_name": "Heavy-duty Lamp",
+    "category": "Grocery",
+    "price": 109.69,
+    "quantity": 244
+  },
+  {
+    "product_id": "b71ff0d1-3f82-4082-891a-d3b4d5da03e2",
+    "product_name": "Smart Headphones",
+    "category": "Automotive",
+    "price": 357.99,
+    "quantity": 348
+  },
+  {
+    "product_id": "5cdbb750-9ae3-4f00-ae39-68ec25aa8906",
+    "product_name": "Multi-use Headphones",
+    "category": "Office",
+    "price": 251.86,
+    "quantity": 19
+  },
+  {
+    "product_id": "44893653-b790-4c74-8a9d-f24a7ba3151a",
+    "product_name": "Multi-use Watch",
+    "category": "Toys",
+    "price": 249.16,
+    "quantity": 55
+  },
+  {
+    "product_id": "d769c721-d5e9-41e9-9264-8e09c74b04d3",
+    "product_name": "Premium T-Shirt",
+    "category": "Automotive",
+    "price": 247.32,
+    "quantity": 229
+  },
+  {
+    "product_id": "80a6d8fe-bb7d-4c24-9032-83dbded945b1",
+    "product_name": "Heavy-duty Backpack",
+    "category": "Music",
+    "price": 241.01,
+    "quantity": 331
+  },
+  {
+    "product_id": "64684959-7b04-4e23-a65a-a4714f4996dd",
+    "product_name": "Premium Watch",
+    "category": "Office",
+    "price": 83.84,
+    "quantity": 314
+  },
+  {
+    "product_id": "362bbaec-9fe1-4695-9c4c-c2ab88b68e55",
+    "product_name": "Heavy-duty Book",
+    "category": "Beauty",
+    "price": 42.86,
+    "quantity": 162
+  },
+  {
+    "product_id": "f4e5db6c-4f50-4927-b9e3-be48a452362b",
+    "product_name": "Wireless Monitor",
+    "category": "Books",
+    "price": 252.11,
+    "quantity": 398
+  },
+  {
+    "product_id": "c8596a81-f888-4969-8237-463431d6db33",
+    "product_name": "Portable Blender",
+    "category": "Shoes",
+    "price": 252.86,
+    "quantity": 272
+  },
+  {
+    "product_id": "c4c562ca-463d-4a10-872a-a1f712d98723",
+    "product_name": "Heavy-duty Sneakers",
+    "category": "Books",
+    "price": 194.3,
+    "quantity": 159
+  },
+  {
+    "product_id": "ef99608f-a52e-4143-8304-658ebb3be728",
+    "product_name": "Elegant Chair",
+    "category": "Toys",
+    "price": 123.49,
+    "quantity": 307
+  },
+  {
+    "product_id": "cd310fec-004b-4308-aed5-7062c9694b0f",
+    "product_name": "Classic Backpack",
+    "category": "Music",
+    "price": 280.38,
+    "quantity": 32
+  },
+  {
+    "product_id": "4d9764d4-b98d-4447-94f2-13bea4e165ab",
+    "product_name": "Portable Monitor",
+    "category": "Electronics",
+    "price": 159.81,
+    "quantity": 149
+  },
+  {
+    "product_id": "108ae049-3559-4559-a6ee-888776a9af4d",
+    "product_name": "Multi-use Watch",
+    "category": "Automotive",
+    "price": 303.37,
+    "quantity": 112
+  },
+  {
+    "product_id": "1cbbc69a-c209-4d08-bb10-eae6e26f5bd8",
+    "product_name": "Heavy-duty T-Shirt",
+    "category": "Shoes",
+    "price": 84.42,
+    "quantity": 217
+  },
+  {
+    "product_id": "c2eab2d6-7595-4164-96b3-485fd59dcf1d",
+    "product_name": "Smart Headphones",
+    "category": "Books",
+    "price": 69.42,
+    "quantity": 433
+  },
+  {
+    "product_id": "9d137358-ef86-435f-a86a-cb9f934b4fa1",
+    "product_name": "Smart Watch",
+    "category": "Home Decor",
+    "price": 405.95,
+    "quantity": 126
+  },
+  {
+    "product_id": "3d486c97-e6f7-40d9-952c-1e9c563f4458",
+    "product_name": "Wireless Desk",
+    "category": "Home Decor",
+    "price": 359.86,
+    "quantity": 324
+  },
+  {
+    "product_id": "3976de56-208d-46b9-b2f7-bcf8fb7ae958",
+    "product_name": "Portable Watch",
+    "category": "Shoes",
+    "price": 215.89,
+    "quantity": 59
+  },
+  {
+    "product_id": "b8588308-1a6d-4bf7-879d-8113d11dfcdc",
+    "product_name": "Multi-use Sneakers",
+    "category": "Books",
+    "price": 91.31,
+    "quantity": 235
+  },
+  {
+    "product_id": "18054f46-2758-43cb-91a8-c21daabf7f9c",
+    "product_name": "Smart Lamp",
+    "category": "Office",
+    "price": 56.07,
+    "quantity": 199
+  },
+  {
+    "product_id": "85ed4f37-725d-4bae-8374-5b8a5c01367b",
+    "product_name": "Premium Sunglasses",
+    "category": "Automotive",
+    "price": 103.37,
+    "quantity": 169
+  },
+  {
+    "product_id": "f1452f2f-5323-4fdc-a9f4-98415a5d25d1",
+    "product_name": "Multi-use Backpack",
+    "category": "Shoes",
+    "price": 226.52,
+    "quantity": 374
+  },
+  {
+    "product_id": "c6fc3fb9-0d50-4982-a363-db84ec8c8ffa",
+    "product_name": "Compact Headphones",
+    "category": "Shoes",
+    "price": 93.01,
+    "quantity": 16
+  },
+  {
+    "product_id": "fc73ad22-e21e-4e93-b7c5-99341e60ddaf",
+    "product_name": "Smart Sneakers",
+    "category": "Toys",
+    "price": 397.26,
+    "quantity": 470
+  },
+  {
+    "product_id": "f68cc832-bd1a-450c-a962-46939d437ae5",
+    "product_name": "Multi-use Desk",
+    "category": "Office",
+    "price": 262.71,
+    "quantity": 327
+  },
+  {
+    "product_id": "5c03fe15-5c93-497c-9e47-afd774d5e68d",
+    "product_name": "Wireless Sneakers",
+    "category": "Electronics",
+    "price": 248.4,
+    "quantity": 305
+  },
+  {
+    "product_id": "92b43084-32bc-4591-9d6c-f7f61f03c70e",
+    "product_name": "Compact Headphones",
+    "category": "Shoes",
+    "price": 389.16,
+    "quantity": 313
+  },
+  {
+    "product_id": "f6848d78-abd8-45f8-a362-a76fc28a1a25",
+    "product_name": "Smart Chair",
+    "category": "Home Decor",
+    "price": 207.48,
+    "quantity": 335
+  },
+  {
+    "product_id": "c6c2f002-e882-4d44-a221-5be1701cb1e7",
+    "product_name": "Heavy-duty Speaker",
+    "category": "Beauty",
+    "price": 184.63,
+    "quantity": 460
+  },
+  {
+    "product_id": "22630224-ab8c-417f-9e32-51892c29bdc7",
+    "product_name": "Eco Vacuum Cleaner",
+    "category": "Toys",
+    "price": 219.28,
+    "quantity": 374
+  },
+  {
+    "product_id": "196c7413-b31a-4fca-9fea-f22e43e3d4ce",
+    "product_name": "Wireless Backpack",
+    "category": "Grocery",
+    "price": 115.93,
+    "quantity": 358
+  },
+  {
+    "product_id": "1e4851c2-3353-492e-a658-6e194255ffaa",
+    "product_name": "Multi-use Book",
+    "category": "Automotive",
+    "price": 414.87,
+    "quantity": 407
+  },
+  {
+    "product_id": "a82ec9f4-8cc0-46e2-9772-b43d47c3eea0",
+    "product_name": "Wireless Speaker",
+    "category": "Beauty",
+    "price": 185.63,
+    "quantity": 190
+  },
+  {
+    "product_id": "5eeb5f2d-d738-48d5-a7c4-7778c2afeaa6",
+    "product_name": "Wireless Vacuum Cleaner",
+    "category": "Clothing",
+    "price": 387.32,
+    "quantity": 34
+  },
+  {
+    "product_id": "f1782b20-3c1e-4d81-9452-a308c21b1371",
+    "product_name": "Compact Sneakers",
+    "category": "Shoes",
+    "price": 259.1,
+    "quantity": 65
+  },
+  {
+    "product_id": "96fdbaba-334c-48eb-947c-6245c4f37d54",
+    "product_name": "Smart Desk",
+    "category": "Grocery",
+    "price": 161.18,
+    "quantity": 43
+  },
+  {
+    "product_id": "f2f1a282-6ff2-4401-8efa-8effc18c9a4c",
+    "product_name": "Compact Speaker",
+    "category": "Home Decor",
+    "price": 268.0,
+    "quantity": 414
+  },
+  {
+    "product_id": "60f19de9-b8c1-48f4-945e-c163a77abbd5",
+    "product_name": "Heavy-duty Speaker",
+    "category": "Electronics",
+    "price": 76.86,
+    "quantity": 349
+  },
+  {
+    "product_id": "17750dce-db0f-4999-80ca-b93ec79b48dc",
+    "product_name": "Eco Chair",
+    "category": "Beauty",
+    "price": 108.39,
+    "quantity": 89
+  },
+  {
+    "product_id": "f81b0230-55ea-4122-9f66-8861f4d36496",
+    "product_name": "Elegant Sunglasses",
+    "category": "Grocery",
+    "price": 382.43,
+    "quantity": 247
+  },
+  {
+    "product_id": "e131d6b7-d88c-4371-8e06-0e56eb029f2b",
+    "product_name": "Eco Headphones",
+    "category": "Electronics",
+    "price": 87.93,
+    "quantity": 269
+  },
+  {
+    "product_id": "d2d357fe-064c-41f8-88a4-9d7b44088c34",
+    "product_name": "Elegant Blender",
+    "category": "Home Decor",
+    "price": 364.36,
+    "quantity": 151
+  },
+  {
+    "product_id": "6dd8b5a5-8c29-4ff3-8818-1d4d59770cd4",
+    "product_name": "Smart Desk",
+    "category": "Books",
+    "price": 156.6,
+    "quantity": 315
+  },
+  {
+    "product_id": "5bff4bc5-4a00-47f9-bec8-75a19c2d9f23",
+    "product_name": "Eco Speaker",
+    "category": "Electronics",
+    "price": 241.98,
+    "quantity": 43
+  },
+  {
+    "product_id": "bdd5846d-8199-4521-976c-130695c6716d",
+    "product_name": "Wireless Speaker",
+    "category": "Clothing",
+    "price": 365.13,
+    "quantity": 293
+  },
+  {
+    "product_id": "fe903cfe-e8bf-4a7c-9399-dbead5daa645",
+    "product_name": "Smart Monitor",
+    "category": "Clothing",
+    "price": 400.83,
+    "quantity": 319
+  },
+  {
+    "product_id": "d01cfa2a-b5d3-4993-8d39-872038ddf6ec",
+    "product_name": "Wireless Chair",
+    "category": "Grocery",
+    "price": 363.82,
+    "quantity": 25
+  },
+  {
+    "product_id": "f5e5fe78-f731-4dbc-a636-65e6d19cb69f",
+    "product_name": "Wireless T-Shirt",
+    "category": "Grocery",
+    "price": 388.56,
+    "quantity": 454
+  },
+  {
+    "product_id": "6c1b7eac-1509-4784-9423-ba83a0909ddb",
+    "product_name": "Eco Lamp",
+    "category": "Books",
+    "price": 284.72,
+    "quantity": 301
+  },
+  {
+    "product_id": "1615cab0-a35d-4e6f-a3f3-c78a10996cf0",
+    "product_name": "Portable Watch",
+    "category": "Fitness",
+    "price": 57.34,
+    "quantity": 214
+  },
+  {
+    "product_id": "301128e0-0e9a-45cf-8508-86ed2da812e5",
+    "product_name": "Eco Blender",
+    "category": "Books",
+    "price": 496.12,
+    "quantity": 429
+  },
+  {
+    "product_id": "d49f6293-1e0b-48bc-a8af-9d2b158de4fb",
+    "product_name": "Wireless Headphones",
+    "category": "Books",
+    "price": 273.36,
+    "quantity": 199
+  },
+  {
+    "product_id": "1b206013-c858-44a2-9649-7aeba6c689f1",
+    "product_name": "Wireless Sneakers",
+    "category": "Music",
+    "price": 322.85,
+    "quantity": 301
+  },
+  {
+    "product_id": "dd724293-45a4-4b3b-b040-3f3c94192a77",
+    "product_name": "Premium Desk",
+    "category": "Toys",
+    "price": 372.2,
+    "quantity": 103
+  },
+  {
+    "product_id": "467df7c7-d5f6-442d-91a7-0089625f1e18",
+    "product_name": "Premium Watch",
+    "category": "Home Decor",
+    "price": 183.72,
+    "quantity": 429
+  },
+  {
+    "product_id": "d8885564-a85f-4240-823f-bc13389b9cd2",
+    "product_name": "Smart Headphones",
+    "category": "Books",
+    "price": 29.34,
+    "quantity": 494
+  },
+  {
+    "product_id": "46429422-bcc9-4769-97d7-738749b85db4",
+    "product_name": "Premium Sneakers",
+    "category": "Fitness",
+    "price": 29.37,
+    "quantity": 95
+  },
+  {
+    "product_id": "77564fe2-4b2c-47c7-a950-d1b8d20d18d5",
+    "product_name": "Portable Headphones",
+    "category": "Electronics",
+    "price": 449.06,
+    "quantity": 188
+  },
+  {
+    "product_id": "1500340f-acf3-48ce-9247-2e4b5f8f2c13",
+    "product_name": "Compact Sneakers",
+    "category": "Clothing",
+    "price": 329.97,
+    "quantity": 418
+  },
+  {
+    "product_id": "7901e0ee-4d10-4dfd-a353-d6669804340e",
+    "product_name": "Portable Blender",
+    "category": "Fitness",
+    "price": 290.93,
+    "quantity": 17
+  },
+  {
+    "product_id": "6d962741-5b63-4403-9bd0-0c2fbff5cbd4",
+    "product_name": "Multi-use Sneakers",
+    "category": "Shoes",
+    "price": 79.65,
+    "quantity": 51
+  },
+  {
+    "product_id": "e083b495-7a89-45b6-885a-0962031e78dc",
+    "product_name": "Wireless Smartphone",
+    "category": "Grocery",
+    "price": 296.64,
+    "quantity": 301
+  },
+  {
+    "product_id": "b59070a0-d1ff-43f9-82f3-ddc2e5c3e5c3",
+    "product_name": "Premium Book",
+    "category": "Grocery",
+    "price": 494.3,
+    "quantity": 233
+  },
+  {
+    "product_id": "5202a2d1-5e7d-4419-a542-5705e2a2ab97",
+    "product_name": "Heavy-duty Sneakers",
+    "category": "Music",
+    "price": 304.38,
+    "quantity": 390
+  },
+  {
+    "product_id": "f5e744fb-ed86-48f7-9521-2e12ea521b6f",
+    "product_name": "Compact Headphones",
+    "category": "Books",
+    "price": 48.29,
+    "quantity": 405
+  },
+  {
+    "product_id": "652422fc-3b1b-4e3f-b4ca-eb048fbe21c6",
+    "product_name": "Eco Book",
+    "category": "Grocery",
+    "price": 77.99,
+    "quantity": 82
+  },
+  {
+    "product_id": "5f5f0f27-f448-49d7-8c95-d927344f8f74",
+    "product_name": "Compact Chair",
+    "category": "Clothing",
+    "price": 363.98,
+    "quantity": 34
+  },
+  {
+    "product_id": "04c3310d-3b9b-4f1a-944b-bc4482e69485",
+    "product_name": "Heavy-duty Chair",
+    "category": "Beauty",
+    "price": 65.56,
+    "quantity": 242
+  },
+  {
+    "product_id": "96b2ad23-2ed9-40b5-9859-a19c0eb469ac",
+    "product_name": "Compact Book",
+    "category": "Grocery",
+    "price": 410.31,
+    "quantity": 481
+  },
+  {
+    "product_id": "4398b061-78a6-4688-96dd-acb6dcc1fbe5",
+    "product_name": "Classic Desk",
+    "category": "Toys",
+    "price": 134.77,
+    "quantity": 212
+  },
+  {
+    "product_id": "12f39d30-aedc-41cb-a82b-20824c24ada3",
+    "product_name": "Wireless Vacuum Cleaner",
+    "category": "Toys",
+    "price": 162.56,
+    "quantity": 379
+  },
+  {
+    "product_id": "7459fdf8-aff3-4292-922b-61401eeda4c7",
+    "product_name": "Multi-use Monitor",
+    "category": "Office",
+    "price": 450.5,
+    "quantity": 85
+  },
+  {
+    "product_id": "2c457b1e-cc75-48d8-ba87-7099a23eafc1",
+    "product_name": "Classic Backpack",
+    "category": "Home Decor",
+    "price": 229.81,
+    "quantity": 116
+  },
+  {
+    "product_id": "506930cd-62ff-47e7-84e1-d3e54c9366b6",
+    "product_name": "Classic Vacuum Cleaner",
+    "category": "Electronics",
+    "price": 263.08,
+    "quantity": 409
+  },
+  {
+    "product_id": "2532ce7c-d981-4db0-a997-7bd29d765d6a",
+    "product_name": "Portable Headphones",
+    "category": "Electronics",
+    "price": 171.53,
+    "quantity": 248
+  },
+  {
+    "product_id": "9244f47c-92ee-4c14-9bd2-c012fe33196a",
+    "product_name": "Elegant Book",
+    "category": "Office",
+    "price": 262.49,
+    "quantity": 109
+  },
+  {
+    "product_id": "c87e9d78-7dd2-4976-8d32-1ed78b909cf9",
+    "product_name": "Portable Lamp",
+    "category": "Shoes",
+    "price": 449.64,
+    "quantity": 236
+  },
+  {
+    "product_id": "57365256-b990-48b0-8ab5-57b51392f322",
+    "product_name": "Portable Desk",
+    "category": "Beauty",
+    "price": 88.46,
+    "quantity": 157
+  },
+  {
+    "product_id": "5e1fe3ac-ddd8-4423-a5c6-ef6ea7858bba",
+    "product_name": "Portable Speaker",
+    "category": "Beauty",
+    "price": 146.63,
+    "quantity": 453
+  },
+  {
+    "product_id": "2f041beb-4bf2-44ac-8e60-27e38fac2905",
+    "product_name": "Compact Book",
+    "category": "Electronics",
+    "price": 186.81,
+    "quantity": 13
+  },
+  {
+    "product_id": "82439152-aaf4-460a-95d5-cbffb66e007f",
+    "product_name": "Elegant Headphones",
+    "category": "Automotive",
+    "price": 454.69,
+    "quantity": 363
+  },
+  {
+    "product_id": "690d21ed-3eda-494f-bae3-dfd1cad57461",
+    "product_name": "Smart Chair",
+    "category": "Automotive",
+    "price": 477.61,
+    "quantity": 324
+  },
+  {
+    "product_id": "30ce940a-0430-4826-8761-08c26764be26",
+    "product_name": "Multi-use Vacuum Cleaner",
+    "category": "Automotive",
+    "price": 472.83,
+    "quantity": 151
+  },
+  {
+    "product_id": "438ca8de-7f43-4e42-81e0-8b2f4520cfdc",
+    "product_name": "Smart Book",
+    "category": "Clothing",
+    "price": 458.25,
+    "quantity": 228
+  },
+  {
+    "product_id": "4ba2ef5c-183b-4551-a2a3-fef1c0e75f5a",
+    "product_name": "Heavy-duty T-Shirt",
+    "category": "Electronics",
+    "price": 40.5,
+    "quantity": 334
+  },
+  {
+    "product_id": "f0156221-9db5-4516-85ac-28dec934afc3",
+    "product_name": "Eco Sunglasses",
+    "category": "Grocery",
+    "price": 64.86,
+    "quantity": 271
+  },
+  {
+    "product_id": "6f6ef676-3bc7-4ca8-9800-2df68fb8dfef",
+    "product_name": "Classic Backpack",
+    "category": "Music",
+    "price": 252.52,
+    "quantity": 22
+  },
+  {
+    "product_id": "305ba3e8-80d7-4891-81cb-2f27b5153e02",
+    "product_name": "Wireless Watch",
+    "category": "Toys",
+    "price": 449.05,
+    "quantity": 408
+  },
+  {
+    "product_id": "3487725c-5d06-4b8c-88dc-f0936d77abc5",
+    "product_name": "Smart Backpack",
+    "category": "Home Decor",
+    "price": 23.4,
+    "quantity": 109
+  },
+  {
+    "product_id": "dc449ca1-7933-4a72-9715-67bbd8b3d507",
+    "product_name": "Wireless Sneakers",
+    "category": "Home Decor",
+    "price": 370.88,
+    "quantity": 478
+  },
+  {
+    "product_id": "f48cf256-b1a4-4683-90aa-af102747d296",
+    "product_name": "Eco Book",
+    "category": "Books",
+    "price": 324.64,
+    "quantity": 52
+  },
+  {
+    "product_id": "68e0ce09-561a-42dd-bf94-b1a8ced50582",
+    "product_name": "Compact Sunglasses",
+    "category": "Home Decor",
+    "price": 465.66,
+    "quantity": 453
+  },
+  {
+    "product_id": "2f2344eb-5361-4e41-a8f8-6646281715d7",
+    "product_name": "Smart Backpack",
+    "category": "Office",
+    "price": 383.86,
+    "quantity": 227
+  },
+  {
+    "product_id": "fbbb352a-07d0-486f-b83d-14052a193e25",
+    "product_name": "Multi-use Sneakers",
+    "category": "Books",
+    "price": 27.57,
+    "quantity": 327
+  },
+  {
+    "product_id": "d652ef03-6cb8-44d9-9443-ee4df7101ad4",
+    "product_name": "Smart Speaker",
+    "category": "Grocery",
+    "price": 387.62,
+    "quantity": 206
+  },
+  {
+    "product_id": "d657f79b-2be5-4146-8a03-6487ac0c80a3",
+    "product_name": "Premium Headphones",
+    "category": "Books",
+    "price": 166.96,
+    "quantity": 499
+  },
+  {
+    "product_id": "fbc75d16-8a39-463a-bd8f-79e762427c37",
+    "product_name": "Compact Vacuum Cleaner",
+    "category": "Books",
+    "price": 455.47,
+    "quantity": 119
+  },
+  {
+    "product_id": "3dbd769e-af10-44da-a666-627491f38e8c",
+    "product_name": "Smart Sneakers",
+    "category": "Books",
+    "price": 85.92,
+    "quantity": 400
+  },
+  {
+    "product_id": "02d18d64-2567-41ab-a359-10432bc8b653",
+    "product_name": "Eco Vacuum Cleaner",
+    "category": "Home Decor",
+    "price": 205.33,
+    "quantity": 70
+  },
+  {
+    "product_id": "9100ce34-5dad-4ecb-8394-886e279f2e17",
+    "product_name": "Portable Watch",
+    "category": "Grocery",
+    "price": 402.45,
+    "quantity": 346
+  },
+  {
+    "product_id": "fa5dee44-0431-4fc6-9bb3-03d24b7a36a3",
+    "product_name": "Portable Blender",
+    "category": "Grocery",
+    "price": 420.06,
+    "quantity": 326
+  },
+  {
+    "product_id": "29d4086f-68bb-4c48-9d9a-1419bc93b9d0",
+    "product_name": "Multi-use Vacuum Cleaner",
+    "category": "Automotive",
+    "price": 487.65,
+    "quantity": 342
+  },
+  {
+    "product_id": "c19830b4-f6f6-441f-ba0a-194f388175d8",
+    "product_name": "Elegant Backpack",
+    "category": "Music",
+    "price": 279.71,
+    "quantity": 182
+  },
+  {
+    "product_id": "6a5fd02b-6cb7-4654-991a-6d12f5c63b80",
+    "product_name": "Heavy-duty Blender",
+    "category": "Beauty",
+    "price": 108.82,
+    "quantity": 420
+  },
+  {
+    "product_id": "067b9d80-7a1b-4f17-b691-c5dfe0cb8139",
+    "product_name": "Heavy-duty Blender",
+    "category": "Clothing",
+    "price": 382.44,
+    "quantity": 394
+  },
+  {
+    "product_id": "c80f9a86-560d-4809-beb3-026c96206ea4",
+    "product_name": "Smart Vacuum Cleaner",
+    "category": "Office",
+    "price": 333.43,
+    "quantity": 358
+  },
+  {
+    "product_id": "1c067d96-0ad0-406a-a0fb-9ecfbbf4057c",
+    "product_name": "Eco Lamp",
+    "category": "Books",
+    "price": 199.64,
+    "quantity": 416
+  },
+  {
+    "product_id": "d482c9f9-c3c6-4874-b7b7-614f78d63e35",
+    "product_name": "Classic Lamp",
+    "category": "Office",
+    "price": 53.96,
+    "quantity": 461
+  },
+  {
+    "product_id": "8e8bc4d9-e0ed-48e2-9753-657f5db5ff8b",
+    "product_name": "Portable Chair",
+    "category": "Toys",
+    "price": 148.99,
+    "quantity": 425
+  },
+  {
+    "product_id": "9ab45cc5-f09c-4846-a9a7-a30b11257fff",
+    "product_name": "Eco Monitor",
+    "category": "Toys",
+    "price": 331.75,
+    "quantity": 342
+  },
+  {
+    "product_id": "9b28ce27-6716-4587-9d1e-962ba6856e6d",
+    "product_name": "Classic Sunglasses",
+    "category": "Home Decor",
+    "price": 363.43,
+    "quantity": 109
+  },
+  {
+    "product_id": "3b25988f-5b20-4eca-82e5-1cf3b0864046",
+    "product_name": "Elegant Backpack",
+    "category": "Automotive",
+    "price": 165.38,
+    "quantity": 386
+  },
+  {
+    "product_id": "03b2bebc-350e-47cd-8be3-864886cc3c83",
+    "product_name": "Elegant Sneakers",
+    "category": "Electronics",
+    "price": 378.39,
+    "quantity": 126
+  },
+  {
+    "product_id": "fd877df6-251d-459a-8232-955a4901c4ba",
+    "product_name": "Multi-use Sneakers",
+    "category": "Toys",
+    "price": 19.35,
+    "quantity": 294
+  },
+  {
+    "product_id": "43a367cd-99ba-4124-ad66-00920bbd2adf",
+    "product_name": "Smart Smartphone",
+    "category": "Office",
+    "price": 173.93,
+    "quantity": 266
+  },
+  {
+    "product_id": "d98f8673-7f3c-47e3-8e75-c80ccd1643c5",
+    "product_name": "Elegant Smartphone",
+    "category": "Music",
+    "price": 9.54,
+    "quantity": 30
+  },
+  {
+    "product_id": "f9706f0e-e6f4-4928-a496-73341e2fbb36",
+    "product_name": "Premium Book",
+    "category": "Music",
+    "price": 205.84,
+    "quantity": 62
+  },
+  {
+    "product_id": "070f6536-1b20-43b1-8424-afe086e973b5",
+    "product_name": "Premium Speaker",
+    "category": "Electronics",
+    "price": 378.3,
+    "quantity": 75
+  },
+  {
+    "product_id": "e3980fb5-6275-4b22-8ca4-307561ef81a0",
+    "product_name": "Portable Blender",
+    "category": "Automotive",
+    "price": 380.47,
+    "quantity": 347
+  },
+  {
+    "product_id": "7d67101f-ab50-4658-838e-52bc3a69b263",
+    "product_name": "Wireless Chair",
+    "category": "Clothing",
+    "price": 443.75,
+    "quantity": 38
+  },
+  {
+    "product_id": "5a77b3d6-9e33-4a67-9fa4-28ac144e46de",
+    "product_name": "Wireless Sunglasses",
+    "category": "Beauty",
+    "price": 328.51,
+    "quantity": 497
+  },
+  {
+    "product_id": "a4b74554-4926-4a59-bd4c-e1d569c79319",
+    "product_name": "Portable Lamp",
+    "category": "Beauty",
+    "price": 314.95,
+    "quantity": 474
+  },
+  {
+    "product_id": "fe95a462-a1b0-42a0-8a5e-e86e6797d75b",
+    "product_name": "Wireless Desk",
+    "category": "Grocery",
+    "price": 116.09,
+    "quantity": 481
+  },
+  {
+    "product_id": "2c30f03c-9135-432f-a103-ce3c6ff62808",
+    "product_name": "Elegant Monitor",
+    "category": "Books",
+    "price": 284.98,
+    "quantity": 48
+  },
+  {
+    "product_id": "a036acce-5412-4423-ac3e-2342a2c65609",
+    "product_name": "Portable Desk",
+    "category": "Grocery",
+    "price": 217.84,
+    "quantity": 335
+  },
+  {
+    "product_id": "a6b704e0-f658-42ea-9930-af8b4e61e839",
+    "product_name": "Compact Speaker",
+    "category": "Automotive",
+    "price": 198.45,
+    "quantity": 279
+  },
+  {
+    "product_id": "fcebda0e-d196-484b-a09d-2b753df501ee",
+    "product_name": "Eco Smartphone",
+    "category": "Home Decor",
+    "price": 147.41,
+    "quantity": 85
+  },
+  {
+    "product_id": "d831596f-fdbc-4121-a7d3-a97c65f89515",
+    "product_name": "Classic Smartphone",
+    "category": "Home Decor",
+    "price": 460.48,
+    "quantity": 321
+  },
+  {
+    "product_id": "67f0f1f2-9865-44d1-93b2-f649eae4c4b5",
+    "product_name": "Multi-use Lamp",
+    "category": "Music",
+    "price": 13.86,
+    "quantity": 245
+  },
+  {
+    "product_id": "af62ef84-fe4c-43a5-aadb-8168738c9438",
+    "product_name": "Multi-use Monitor",
+    "category": "Shoes",
+    "price": 269.57,
+    "quantity": 423
+  },
+  {
+    "product_id": "d36d1cdb-e049-4598-9ad4-864ebeed6885",
+    "product_name": "Wireless T-Shirt",
+    "category": "Beauty",
+    "price": 163.87,
+    "quantity": 163
+  },
+  {
+    "product_id": "a938423f-01aa-441a-8e17-7824a5d7d4b2",
+    "product_name": "Premium Smartphone",
+    "category": "Toys",
+    "price": 177.86,
+    "quantity": 72
+  },
+  {
+    "product_id": "1d158bff-da9a-4c11-a9ca-f64c557e5224",
+    "product_name": "Smart Blender",
+    "category": "Toys",
+    "price": 204.57,
+    "quantity": 274
+  },
+  {
+    "product_id": "d8b3fea9-cc17-40e5-8d99-16f93f58d18b",
+    "product_name": "Wireless Blender",
+    "category": "Clothing",
+    "price": 235.92,
+    "quantity": 285
+  },
+  {
+    "product_id": "71296aa5-74ea-4eeb-870b-5cbf6f8f7f44",
+    "product_name": "Elegant Vacuum Cleaner",
+    "category": "Toys",
+    "price": 270.94,
+    "quantity": 176
+  },
+  {
+    "product_id": "3003df56-e98b-4cf2-b1ab-cbbcc2d3357c",
+    "product_name": "Compact Sneakers",
+    "category": "Home Decor",
+    "price": 379.64,
+    "quantity": 301
+  },
+  {
+    "product_id": "06d4e39a-7088-4b01-9613-32e527469c38",
+    "product_name": "Wireless Speaker",
+    "category": "Clothing",
+    "price": 290.61,
+    "quantity": 253
+  }
+]

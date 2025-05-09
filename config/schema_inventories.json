@@ -1,0 +1,7 @@
+{
+    "inventory_id": "string" ,
+    "product_id":  "string" ,
+    "store_id":  "string" ,
+    "stock_quantity": "int64" ,
+    "last_updated":  "string"
+  }
